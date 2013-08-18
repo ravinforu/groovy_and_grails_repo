@@ -1,4 +1,4 @@
-groovy_and_grails_repo
-======================
+Groovy and Grails Repository
+=============================
 
 Has got samples for groovy and grails.
